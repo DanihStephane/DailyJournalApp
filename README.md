@@ -1,3 +1,4 @@
+Application en cours de developpement [Prototype] ...
 # 📔 Journal Quotidien
 
 > Un journal minimaliste pour capturer vos pensées quotidiennes ✨
