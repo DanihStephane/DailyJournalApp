@@ -60,6 +60,10 @@ Toutes les données sont stockées localement dans votre navigateur. Aucune info
 - 🔒 **Privé** : Vos données restent sur votre appareil
 - 📱 **Responsive** : Fonctionne sur tous les appareils
 
+## 📝 License
+
+ `LICENSE` free: https://github.com/DanihStephane.
+
 ---
 
 Développé avec ❤️ pour la simplicité et la réflexion quotidienne
